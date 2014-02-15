@@ -31,6 +31,6 @@ Pull requests are welcome!
 
 ##Example
 
-![GIF](/colorwheel.gif)
+![GIF](https://github.com/danzimm/CWColorWheel/blob/master/colorwheel.gif)
 
 ###License: MIT
