@@ -31,6 +31,6 @@ Pull requests are welcome!
 
 ##Example
 
-![](http://danzimm.com/colorwheel.mov)
+<video width="50%" height="50%" src="http://danzimm.com/colorwheel.mov" controls></video>
 
 ###License: MIT
