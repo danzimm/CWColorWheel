@@ -1,14 +1,14 @@
 {
-    "title" : "CWColorPicker Documentation Center",
+    "title" : "CWColorWheel Documentation Center",
     "description" : "README.md",
     "specialData" : [
         {
             "key" : "Framework",
-            "link" : "https://github.com/danzimm/CWColorPicker"
+            "link" : "https://github.com/danzimm/CWColorWheel"
         },
         {
             "key" : "Documentation",
-            "link" : "http://docs.danz.im/CWColorPicker"
+            "link" : "http://docs.danz.im/CWColorWheel"
         }
     ],
     "columns" : [
