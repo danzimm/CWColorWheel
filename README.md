@@ -29,4 +29,8 @@ In order to have a color wheel appear one must initialize `CWColorPickerViewCont
 
 Pull requests are welcome!
 
+##Example
+
+![](http://danzimm.com/colorwheel.mov)
+
 ###License: MIT
