@@ -29,8 +29,4 @@ In order to have a color wheel appear one must initialize `CWColorPickerViewCont
 
 Pull requests are welcome!
 
-##Example
-
-![GIF](https://github.com/danzimm/CWColorWheel/blob/master/colorwheel.gif)
-
 ###License: MIT
