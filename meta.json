@@ -1,0 +1,22 @@
+{
+    "title" : "CWColorPicker Documentation Center",
+    "description" : "README.md",
+    "specialData" : [
+        {
+            "key" : "Framework",
+            "link" : "https://github.com/danzimm/CWColorPicker"
+        },
+        {
+            "key" : "Documentation",
+            "link" : "http://docs.danz.im/CWColorPicker"
+        }
+    ],
+    "columns" : [
+        {
+            "title" : "iOS",
+            "items" : [
+                ".*\\.h$"
+            ]
+        }
+    ]
+}
