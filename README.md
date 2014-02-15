@@ -31,6 +31,6 @@ Pull requests are welcome!
 
 ##Example
 
-[Video](http://danzimm.com/colorwheel.mov)
+![GIF](/colorwheel.gif)
 
 ###License: MIT
